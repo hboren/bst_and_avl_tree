@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 {
     // Binary Search Tree tests
 
-	BinarySearchTree<char,int> bt;
+		BinarySearchTree<char,int> bt;
     bt.insert(std::make_pair('a',1));
     bt.insert(std::make_pair('b',2));
 
